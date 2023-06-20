@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<package format="2">
-  <name>robot_model</name>
-  <version>0.0.0</version>
-  <description>The badger package</description>
-  <maintainer email="javen.j.w.lin@gmail.com">Javen</maintainer>
-  <buildtool_depend>catkin</buildtool_depend>
-  <license>TODO</license>
-</package>
